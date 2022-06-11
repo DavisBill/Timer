@@ -2,6 +2,14 @@
   color: black;
 }
 
+#left_board {
+  float: left;
+}
+
+#right_board {
+  float: right;
+}
+
 h1 {
   text-align: center;
   color: red;
